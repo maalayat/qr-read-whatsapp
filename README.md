@@ -1,4 +1,4 @@
-## QR reader for WhatsApp with Kotlin
+## QR reader for WhatsApp
 
 1. Link a device by reading the generated QR in the terminal.
 2. Send a WhatsApp message with an image containing a QR.
